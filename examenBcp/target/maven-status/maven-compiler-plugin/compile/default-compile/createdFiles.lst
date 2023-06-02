@@ -1,0 +1,8 @@
+pe\com\bcp\repository\model\User.class
+pe\com\bcp\repository\model\Review.class
+pe\com\bcp\services\impl\ItemServiceImpl.class
+pe\com\bcp\repository\ItemRepository.class
+pe\com\bcp\services\ItemService.class
+pe\com\bcp\controller\ItemController.class
+pe\com\bcp\repository\model\Item.class
+pe\com\bcp\Application.class
